@@ -26,6 +26,6 @@ v1.0
 - allow data export
 
 ## Authors:
-##### Piotr Bomba - coding
 ##### Aleksandra Manecka - theoretical analysis
+##### Piotr Bomba - coding
 ##### under supervision of prof. Ryszard Pęcherski
