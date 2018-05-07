@@ -22,6 +22,8 @@ v1.0
 ## Future ideas:
 - add stress curve
 - pack into single executable
+- add force quiver
+- allow data export
 
 ## Authors:
 ##### Piotr Bomba - coding
