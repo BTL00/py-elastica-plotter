@@ -2,7 +2,6 @@
 
 ![Screenshot - alt](/screenshot.png "")
 
-
 Open-source Python deflection curve plotter based on    Leonhard Euler   and   Jakob Bernoulli  theory for elastic lines.
 
 
