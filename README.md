@@ -7,6 +7,7 @@ Open-source Python deflection curve plotter based on    Leonhard Euler   and   J
 
 
 ## Requirements:
+Exact requirements provided by "python -m pip freeze" are saved in ```requirements.txt```
 - Python 2.7
 - PIL
 - NumPy 
