@@ -28,6 +28,9 @@ v1.0
 - add force quiver
 - allow data export
 
+## Known bugs:
+- on macOS Catalina window needs to be resized after load for icons to appear
+
 ## Authors:
 ##### Aleksandra Manecka - theoretical analysis
 ##### Piotr Bomba - coding
