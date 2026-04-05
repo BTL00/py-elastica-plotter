@@ -1,0 +1,11 @@
+[project]
+name = "py-elastica-plotter"
+version = "2.0.0"
+description = "Open-source deflection curve plotter based on Euler-Bernoulli elastic line theory"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "gradio",
+]

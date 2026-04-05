@@ -8,20 +8,12 @@ Open-source Python deflection curve plotter based on Leonhard Euler and Jakob Be
 
 ## Requirements:
 - Python 3.8+
-- NumPy
-- SciPy
-- matplotlib
-- Gradio
-
-Install all dependencies:
-```
-pip install -r requirements.txt
-```
+- [uv](https://docs.astral.sh/uv/)
 
 ## Run:
 
 ```
-python app.py
+uv run app.py
 ```
 
 Then open the URL shown in the terminal (default: http://localhost:7860).
@@ -32,6 +24,7 @@ v2.0
 ## Changes in v2.0:
 - Migrated from Python 2.7 / Tkinter to Python 3 / Gradio web UI
 - Removed Pillow dependency (no longer needed)
+- Migrated to [uv](https://docs.astral.sh/uv/) for dependency management
 - Updated all dependencies to current versions
 
 ## Future ideas:
